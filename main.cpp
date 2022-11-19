@@ -8,9 +8,9 @@ int main() {
       case 0 :
          cout << (a*b)/2 << endl;
       case 1 : 
-         cout << a*a << endl;
+         cout << (a*a) << endl;
       case 2:
-         cout << a*b << endl;
+         cout << (a*b) << endl;
          break;
       defaul:
          cout<< "opzione non valida"<< endl;
