@@ -12,7 +12,7 @@ int main() {
       case 2:
          cout << (a * b) << endl;
          break;
-      defaul:
+      default:
          cout<< "opzione non valida"<< endl;
        }  
    return 0;
